@@ -1,16 +1,19 @@
 {
-  "name": "ngx-currency",
+  "name": "@coolamber-it-solutions/ngx-currency",
   "version": "19.0.0",
   "description": "A very simple currency mask directive that allows using a number attribute with the ngModel.",
   "author": "Neri Bez Fontana",
   "license": "MIT",
-  "homepage": "https://github.com/nbfontana/ngx-currency#readme",
+  "homepage": "https://github.com/coolamber-it-solutions/ngx-currency#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nbfontana/ngx-currency"
+    "url": "git+https://github.com/coolamber-it-solutions/ngx-currency"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
-    "url": "https://github.com/nbfontana/ngx-currency/issues"
+    "url": "https://github.com/coolamber-it-solutions/ngx-currency/issues"
   },
   "keywords": [
     "angular",
