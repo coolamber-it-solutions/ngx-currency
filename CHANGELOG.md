@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [20.0.0](https://github.com/coolamber-it-solutions/ngx-currency/compare/v19.0.0...v20.0.0) (2025-06-12)
+
+
+### Features
+
+* migrate to Angular 20 ([8731005](https://github.com/coolamber-it-solutions/ngx-currency/commit/8731005d63a80941c4b1c83e8d5836152c2a759f))
+* npm package for own consumption ([42d78a7](https://github.com/coolamber-it-solutions/ngx-currency/commit/42d78a7b787c38f199c9286970bebc794ddc81c7))
+
 ## [19.0.0](https://github.com/nbfontana/ngx-currency/compare/v18.0.0...v19.0.0) (2025-01-06)
 
 
